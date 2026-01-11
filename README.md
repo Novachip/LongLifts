@@ -23,13 +23,6 @@ A simple 5x5 dumbbell workout tracker based on the StrongLifts method.
 4. Tap "Complete Workout" when finished
 5. Weights increase by 1kg for exercises where you hit all 5x5
 
-## Deploy to GitHub Pages
-
-1. Create a new GitHub repository
-2. Upload all files (index.html, manifest.json, sw.js, icon.svg)
-3. Go to Settings > Pages > Enable from main branch
-4. Access at `https://yourusername.github.io/repo-name`
-
 ## Install on Mobile
 
 - **Android**: Open in Chrome > Menu > "Install app"
