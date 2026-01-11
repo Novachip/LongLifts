@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#1a1a2e"/>
+  <g fill="#e94560">
+    <!-- Dumbbell -->
+    <rect x="100" y="206" width="60" height="100" rx="8"/>
+    <rect x="352" y="206" width="60" height="100" rx="8"/>
+    <rect x="140" y="236" width="232" height="40" rx="6"/>
+    <!-- 5x5 text -->
+    <text x="256" y="420" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="#e94560">5x5</text>
+  </g>
+</svg>
