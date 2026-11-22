@@ -1,16 +1,16 @@
-const CACHE_NAME = 'longlifts-v2';
+const CACHE_NAME = 'longlifts-v3';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './js/data.js',
-  './js/logic.js',
-  './js/app.js',
+  './data.js',
+  './logic.js',
+  './app.js',
   './manifest.json',
   './icon.svg',
-  './icons/icon-180.png',
-  './icons/icon-192.png',
-  './icons/icon-512.png'
+  './icon-180.png',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', event => {
